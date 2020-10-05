@@ -4,10 +4,10 @@
 # Запуск в линукс : python3 TgTools.py
 # Запуск в виндовс : python TgTools.py
 # Инструкция по установке в термукс :
-pkg install git
-pkg install python3
-pip3 install telethon
+pkg install git ; 
+pkg install python3 ; 
+pip3 install telethon ;
 git clone 
 # Запуск:
-cd tgtools
+cd tgtools ;
 python3 TgTools.py
